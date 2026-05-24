@@ -225,7 +225,7 @@ export default function AjarinDongPage() {
         id: 'session-demo-1',
         mentorId: 'mentor-1',
         mentorName: 'Budi Santoso, M.T.',
-        date: '2026-05-26...',
+        date: '2026-05-26',
         time: '14:00',
         topic: 'Latihan Soal Limit Trigonometri & Kalkulus Dasar',
         status: 'UPCOMING',
