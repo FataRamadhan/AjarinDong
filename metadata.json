@@ -1,0 +1,6 @@
+{
+  "name": "AjarinDong",
+  "description": "Aplikasi pencarian mentor belajar berpengalaman dengan penjadwalan sesi privat, ulasan transparan, ruang obrolan langsung, integrasi kalender, dan dasbor analitik kemajuan belajar secara detail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
